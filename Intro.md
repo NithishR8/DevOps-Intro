@@ -18,15 +18,40 @@ DevOps will remove the isolated conditions between the development team and oper
 
 Waterfall vs Agile Development | Software Development Life Cycle Models
 
-Waterfall Model
+1. Waterfall Model-
 The waterfall model is a famous and good version of SDLC(System Development Life Cycle) for software engineering. The waterfall model is a linear and sequential model, which means that a development phase cannot begin until the previous phase is completed. We cannot overlap phases in the waterfall model.
+Example: Construction of a building.
 
-Agile Model
+2. Agile Model-
 Agile model is a combination of iterative and incremental models, that is, it is made up of iterative and incremental models.
 In Agile model, the focus is given to process adaptability and customer satisfaction.
+Example: Developing a website.
 
 The Waterfall model is not dead. It is still used in software development process in which requirements are well-defined and where changes are not expected during project. But when requirements are not well-define and need quick adjustments during the project, then waterfall model cannot work and Agile model is preferred. 
 Although Agile has not replaced Waterfall, it has become most preferred approach to most of the software development processes due to its extra advantages like flexibility, adaptability, transparency and responsiveness.
+
+Other SDLC Models: 
+
+3. Lean methodology-
+Lean methodology aims to fully optimize your team's process and output through continuous improvements. It's a systematic approach to continuous process improvement through the elimination of waste. It originated in the manufacturing industry, specifically within Toyota, in the mid-20th century as part of the Toyota Production System (TPS), which sought to maximize value for the customer through the optimal use of resources.
+Example: Automotive Production System and Assembly Line Process.
+
+4. Spiral-
+Spiral model enables project teams to build a highly customized product. Spiral methodology passes through four phases repeatedly until the project is finished: planning, risk analysis, engineering, and evaluation. It is focused on risk analysis, and with each iteration it focuses on mitigating potential risks. The model also emphasizes customer feedback, and as the prototype build is done in small increments, cost estimation becomes easier.
+Example: A project to develop a comprehensive city management system integrating traffic control, public transportation, emergency services, and utilities. Over such a long duration, requirements and technologies are bound to change, making the Spiral Model’s adaptability invaluable.
+
+5. Iterative model-
+The Iterative model is all about repetition. Instead of starting out with a comprehensive overview of the requirements, development teams build the software piece by piece and identify further requirements as they go along. As a result, each new phase in the Iterative model produces a newer, more-refined version of the software under development.
+Example: Cooking, Learning. 
+
+6. V-model-
+The V-model is a type of SDLC model where the process executes sequentially in a V-shape. It is also known as the Verification and Validation model. It is based on the association of a testing phase for each corresponding development stage. The development of each step is directly associated with the testing phase. The next phase starts only after completion of the previous phase i.e., for each development activity, there is a testing activity corresponding to it. 
+Example:  used in safety, critical systems, such as aerospace and defence systems, because of its emphasis on thorough testing and its ability to clearly define the steps involved in the software development process.
+
+7. DevOps-
+DevOps is used by some of the biggest companies out there, such as Atlassian. A hybrid of Agile and Lean, DevOps evolved from the growing need for collaboration between operations and development teams throughout the SDLC process. 
+In DevOps, both developers and operations teams work together to accelerate and innovate the deployment and creation of software. There are small but frequent updates and DevOps encourages continuous feedback, process improvement and the automation of previously manual processes.
+
 
 
 
